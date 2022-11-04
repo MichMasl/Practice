@@ -10,6 +10,6 @@ class MainActivity : AppCompatActivity() {
 
         println("Experimental branch")
 
-        print("New feature branch")
+        print("New feature branch 1")
     }
 }
