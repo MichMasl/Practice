@@ -7,13 +7,5 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-
-        println("Experimental branch")
-
-        print("New feature branch 1")
-
-        print("Line")
-
-        println("hello from your friend")
     }
 }
