@@ -13,5 +13,7 @@ class MainActivity : AppCompatActivity() {
         print("New feature branch 1")
 
         print("Line")
+
+        println("hello from your friend")
     }
 }
