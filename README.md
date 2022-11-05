@@ -1,3 +1,2 @@
 # Practice
-Training project
-For demonstration purposes :)
+Training project for demonstration purposes :)
